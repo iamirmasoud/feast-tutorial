@@ -1,0 +1,4 @@
+feast
+pandas
+scikit-learn
+numpy
